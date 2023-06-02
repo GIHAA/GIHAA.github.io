@@ -17,7 +17,7 @@ function App() {
     setTimeout(() => {
        setloading(true);
       //  no api fetching yet
-    }, 3000);
+    }, 500);
   },[])
 
   useEffect(() => {

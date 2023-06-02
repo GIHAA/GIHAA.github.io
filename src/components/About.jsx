@@ -17,7 +17,9 @@ const About = () => {
               <p data-aos="fade-right" >Hi. I'm Gihan sudeepa, nice to meet you.</p>
             </div>
             <div>
-              <p data-aos="fade-up">Robotics enthusiast and a Software Engineering student 🚀 from sri lanka. Currently,I am studing Software Engineering at SLIIT</p>  
+              <p data-aos="fade-up">
+I'm a self-motivated Software Engineering undergraduate with a passion for learning and trying new technologies. I'm interested
+in both Full Stack and Backend Development and can quickly adapt to changes.</p>  
             </div>
           </div>
       </div>

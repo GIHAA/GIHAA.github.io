@@ -5,6 +5,7 @@ import logo from "../assets/logo.png";
 import {Link} from "react-scroll";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import resumePdf from './cv.pdf';
 
 
 const Navbar = () => {
@@ -116,8 +117,11 @@ const Navbar = () => {
             </a>
           </li>
           <li className="w-[160px]  rounded-r-[10px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 hover:bg-[#556e4b] hover:rounded-r-[100px]">
-            <a className="flex justify-between items-center w-full text-gray-300"
-            href="">
+          <a
+    className="flex justify-between items-center w-full text-gray-300"
+    href={resumePdf}
+    download
+  >
               Resume <BsFillPersonLinesFill size={30}/>
             </a>
           </li>
