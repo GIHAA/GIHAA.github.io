@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.47a4074d.css",
-    "main.js": "/static/js/main.d1a2b9ae.js",
-    "static/media/p4.png": "/static/media/p4.f8d868700913f887f67b.png",
-    "static/media/p5.png": "/static/media/p5.2ad8eaa25e091f6c6b5e.png",
+    "main.css": "/static/css/main.537d881e.css",
+    "main.js": "/static/js/main.aa3972c2.js",
+    "static/media/cv.pdf": "/static/media/cv.33923076e9c5dd5b7403.pdf",
+    "static/media/p4.png": "/static/media/p4.b3f2caefc7220cd65736.png",
+    "static/media/p5.png": "/static/media/p5.179e490ad0f255bd08ee.png",
+    "static/media/p6.png": "/static/media/p6.4f3effad6c2c19698d05.png",
     "static/media/pre1.mp4": "/static/media/pre1.2f0cb4b5c1901cb3246d.mp4",
     "static/media/p2.jpg": "/static/media/p2.aafdf2a23ae56dd60106.jpg",
+    "static/media/n5.png": "/static/media/n5.acd9bcb31984014da2b1.png",
+    "static/media/n2.png": "/static/media/n2.cb4a56290b3742548bb3.png",
     "static/media/bg.jpg": "/static/media/bg.e2a76dff58b4a65106b1.jpg",
     "static/media/p1.jpg": "/static/media/p1.5a8439c4060c1ea18af2.jpg",
+    "static/media/n4.png": "/static/media/n4.7ff06aabc18c7b3be0c7.png",
     "static/media/arduino.png": "/static/media/arduino.b742fbf92c965df3a05e.png",
-    "static/media/lisa.jpeg": "/static/media/lisa.4bc3d8a1cc84cee8c0aa.jpeg",
+    "static/media/lisa.jpeg": "/static/media/lisa.a9f518833038411b7044.jpeg",
+    "static/media/n7.png": "/static/media/n7.ca2e84be23023f591679.png",
+    "static/media/n3.png": "/static/media/n3.9c9e8f558760eee9f178.png",
+    "static/media/n1.png": "/static/media/n1.49047eced76a0ec6d3cd.png",
     "static/media/C++.png": "/static/media/C++.cf9964b4ba26f94a1ff0.png",
+    "static/media/n6.png": "/static/media/n6.ee653e39e5819ad83185.png",
     "static/media/logo.png": "/static/media/logo.c9035d37f9b7d4e15ab7.png",
     "static/media/html.png": "/static/media/html.458c2005a1fc4a1be5c3.png",
     "static/media/pi.png": "/static/media/pi.51dbe6827f05b6f1e319.png",
@@ -18,11 +27,11 @@
     "static/media/github.png": "/static/media/github.93e7379eb9b85f8fb501.png",
     "static/media/firebase.png": "/static/media/firebase.158ac3666aab19da705a.png",
     "index.html": "/index.html",
-    "main.47a4074d.css.map": "/static/css/main.47a4074d.css.map",
-    "main.d1a2b9ae.js.map": "/static/js/main.d1a2b9ae.js.map"
+    "main.537d881e.css.map": "/static/css/main.537d881e.css.map",
+    "main.aa3972c2.js.map": "/static/js/main.aa3972c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.47a4074d.css",
-    "static/js/main.d1a2b9ae.js"
+    "static/css/main.537d881e.css",
+    "static/js/main.aa3972c2.js"
   ]
 }
