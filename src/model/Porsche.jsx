@@ -1,3 +1,5 @@
+import * as THREE from 'three'
+import {  useGLTF } from '@react-three/drei'
 
 export function Porsche(props) {
     const { nodes, materials } = useGLTF("/2019_bmw_m8.glb");
